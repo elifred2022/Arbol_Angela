@@ -21,6 +21,7 @@
 html {
     font-size: 62.5%;
     font-family: "dm sans", sans-serif;
+    color: var(--soft-blue);
 
 }
 
@@ -31,20 +32,22 @@ header {
     justify-content: center;
     width: 100%;
     min-width: 320px; /* la dimension mas chica de los celulares 320px*/
-    height: 150px;
+    height: 100px;
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
 }
 
 .AngelaMartinezFoto {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/67613333_10220095410395795_4043130436900093952_n.jpg);
+    background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
+    top: 250px;
 }
 
 .AngelaMartinezLeyenda {
@@ -59,4 +62,18 @@ header {
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
     top: 250px;
+}
+
+.hijos{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    top: 40px;
 }
