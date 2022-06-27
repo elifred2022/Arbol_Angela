@@ -78,7 +78,7 @@ header {
     top: 0px;
 }
 
-.OrlandoMartinezLeyenda {
+.OrlandoMartinezLeyenda { 
     position: relative;
     display: flex;
     flex-direction: column;
