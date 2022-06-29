@@ -48,8 +48,13 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
-    top: auto;
+    top: 0px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
 }
 
 .AngelaMartinezLeyenda {
@@ -63,7 +68,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 200px;
+    /*top: 200px;*/
 }
 
 .hijos{
@@ -86,13 +91,18 @@ header {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/orlando/OlandoMartinezFoto.jpeg);
+    background-image: url(./fotos/orlando/OrlandoMartinezFoto.jpeg);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     top: 0px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
 }
 
 .OrlandoMartinezLeyenda { 
@@ -106,7 +116,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 200px;
+    /*top: 200px;*/
 }
 
 .FerrerMartinez {
@@ -121,6 +131,11 @@ header {
     text-align: center;
     top: 0px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
 }
 
 .FerrerMartinezLeyenda { 
@@ -134,7 +149,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 200px;
+    /*top: 200px;*/
 }
 
 
@@ -150,6 +165,11 @@ header {
     text-align: center;
     top: 0px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
 }
 
 .EliezerJoseMartinezLeyenda { 
@@ -163,7 +183,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 250px;
+    /*top: 250px;*/
 }
 
 /*scroll___1__________________________________________*/
