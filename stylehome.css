@@ -42,7 +42,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 50vh;
+    height: 70vh;
     background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg);
     background-position: center;
     background-size: cover;
@@ -55,6 +55,7 @@ header {
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: flex-end;
+    
 }
 
 .AngelaMartinezLeyenda {
@@ -90,7 +91,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 50vh;
+    height: 90vh;
     background-image: url(./fotos/orlando/OrlandoMartinezFoto.jpeg);
     background-position: center;
     background-size: cover;
@@ -123,7 +124,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 50vh;
+    height: 90vh;
     background-image: url(./fotos/ferrer/ferrer.JPG);
     background-position: center;
     background-size: cover;
@@ -157,7 +158,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 70vh;
+    height: 90vh;
     background-image: url(./fotos/EliezerTio/EliezerTio.JPG);
     background-position: center;
     background-size: cover;
@@ -186,12 +187,284 @@ header {
     /*top: 250px;*/
 }
 
+
+.EriselGalindezMartinez {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/Ericel/Ericel.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.EriselGalindezMartinezLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+
+.ShirleyMartinez {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/Shirley/Shirley.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.ShirleyMartinezLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+.BelenRojas {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/BelenRojas/BelenRojas.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.BelenRojasLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+.ZenaidaRojas {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/Katy/Katy.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.ZenaidaRojasLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+.MirianRojas {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/MirianRojas/MirianRojas.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.MirianRojasLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+
+.PedroRojas {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/PedroRojas/PedroRojas.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.PedroRojasLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+
+.AngelaRojas {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/AngelaMami/AngelaMami.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.AngelaRojasLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
+
+.CarmenElenaRojas {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 90vh;
+    background-image: url(./fotos/CarmenElena/CarmenElena.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: flex-end;
+}
+
+.CarmenElenaRojasLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    /*top: 250px;*/
+}
+
 /*scroll___1__________________________________________*/
 
-/*.main-tables-container {
+.CarretelHijos {
     display: flex;
     height: 316px;
-   /* overflow-x: scroll; /* asi se hace el srcoll vertical para el horizontal seria (overflow-y: scroll)*/
- /*   overscroll-behavior-x: contain;*/
-  /*  scroll-snap-type: x proximity;*/
+    overflow-x: scroll; /* asi se hace el srcoll vertical para el horizontal seria (overflow-y: scroll)*/
+    overscroll-behavior-x: contain;
+    scroll-snap-type: x proximity;
+    width: 100%;
+    height: auto;
+}
 
