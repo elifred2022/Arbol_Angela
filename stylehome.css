@@ -50,6 +50,11 @@ header {
     text-align: center;
     top: auto;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
 }
 
 .AngelaMartinezLeyenda {
@@ -93,6 +98,11 @@ header {
     text-align: center;
     top: 0px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
 }
 
 .OrlandoMartinezLeyenda { 
@@ -121,6 +131,11 @@ header {
     text-align: center;
     top: 0px;
     border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
 }
 
 .FerrerMartinezLeyenda { 
