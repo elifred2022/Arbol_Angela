@@ -49,6 +49,7 @@ header {
     background-repeat: no-repeat;
     text-align: center;
     top: auto;
+    border-radius: 15px;
 }
 
 .AngelaMartinezLeyenda {
@@ -62,7 +63,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 270px;
+    top: 200px;
 }
 
 .hijos{
@@ -76,7 +77,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 80px;
+    top: 0px;
 }
 
 
@@ -90,7 +91,8 @@ header {
     background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
-    top: 100px;
+    top: 0px;
+    border-radius: 15px;
 }
 
 .OrlandoMartinezLeyenda { 
@@ -104,7 +106,64 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-    top: 270px;
+    top: 200px;
+}
+
+.FerrerMartinez {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 50vh;
+    background-image: url(./fotos/ferrer/ferrer.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+}
+
+.FerrerMartinezLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    top: 200px;
+}
+
+
+.EliezerJoseMartinez {
+    position: relative;
+    width: 100%;
+    min-width: 320px;
+    height: 70vh;
+    background-image: url(./fotos/EliezerTio/EliezerTio.JPG);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    top: 0px;
+    border-radius: 15px;
+}
+
+.EliezerJoseMartinezLeyenda { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    top: 250px;
 }
 
 /*scroll___1__________________________________________*/
