@@ -42,7 +42,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 70vh;
+    height: 50vh;
     background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg);
     background-position: center;
     background-size: cover;
@@ -87,12 +87,12 @@ header {
 }
 
 
-.OrlandoMartinez {
+.OrlandoMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
-    background-image: url(./fotos/orlando/OrlandoMartinezFoto.jpeg);
+    height: 50vh;
+   /* background-image: url(./fotos/orlando/OrlandoMartinezFoto.jpeg); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -124,7 +124,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/ferrer/ferrer.JPG);
     background-position: center;
     background-size: cover;
@@ -158,7 +158,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/EliezerTio/EliezerTio.JPG);
     background-position: center;
     background-size: cover;
@@ -192,7 +192,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/Ericel/Ericel.jpg);
     background-position: center;
     background-size: cover;
@@ -226,7 +226,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/Shirley/Shirley.jpg);
     background-position: center;
     background-size: cover;
@@ -259,7 +259,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/BelenRojas/BelenRojas.jpg);
     background-position: center;
     background-size: cover;
@@ -292,7 +292,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/Katy/Katy.jpg);
     background-position: center;
     background-size: cover;
@@ -325,7 +325,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/MirianRojas/MirianRojas.jpg);
     background-position: center;
     background-size: cover;
@@ -359,7 +359,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/PedroRojas/PedroRojas.jpg);
     background-position: center;
     background-size: cover;
@@ -393,7 +393,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/AngelaMami/AngelaMami.jpg);
     background-position: center;
     background-size: cover;
@@ -427,7 +427,7 @@ header {
     position: relative;
     width: 100%;
     min-width: 320px;
-    height: 90vh;
+    height: 50vh;
     background-image: url(./fotos/CarmenElena/CarmenElena.jpg);
     background-position: center;
     background-size: cover;
@@ -468,3 +468,9 @@ header {
     height: auto;
 }
 
+img {
+    height: auto;
+    width: auto;
+    max-height: 100%;
+    max-width: 100%;
+}
