@@ -38,12 +38,12 @@ header {
     border-radius: 15px;
 }
 
-.AngelaMartinez {
+.AngelaMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg);
+   /* background-image: url(./fotos/orlando/OrlandoMartinezFoto.jpeg); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -55,10 +55,9 @@ header {
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: flex-end;
-    
 }
 
-.AngelaMartinezLeyenda {
+.AngelaMartinezLeyenda { 
     position: relative;
     display: flex;
     flex-direction: column;
@@ -120,12 +119,12 @@ header {
     /*top: 200px;*/
 }
 
-.FerrerMartinez {
+.FerrerMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/ferrer/ferrer.JPG);
+    /*background-image: url(./fotos/ferrer/ferrer.JPG);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -154,12 +153,12 @@ header {
 }
 
 
-.EliezerJoseMartinez {
+.EliezerJoseMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/EliezerTio/EliezerTio.JPG);
+    /*background-image: url(./fotos/EliezerTio/EliezerTio.JPG);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -188,12 +187,12 @@ header {
 }
 
 
-.EriselGalindezMartinez {
+.EriselGalindezMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/Ericel/Ericel.jpg);
+    /*background-image: url(./fotos/Ericel/Ericel.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -222,12 +221,12 @@ header {
 }
 
 
-.ShirleyMartinez {
+.ShirleyMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/Shirley/Shirley.jpg);
+    /*background-image: url(./fotos/Shirley/Shirley.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -255,12 +254,12 @@ header {
     /*top: 250px;*/
 }
 
-.BelenRojas {
+.BelenRojasFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/BelenRojas/BelenRojas.jpg);
+    /*background-image: url(./fotos/BelenRojas/BelenRojas.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -288,12 +287,12 @@ header {
     /*top: 250px;*/
 }
 
-.ZenaidaRojas {
+.ZenaidaRojasFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/Katy/Katy.jpg);
+    /*background-image: url(./fotos/Katy/Katy.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -321,12 +320,12 @@ header {
     /*top: 250px;*/
 }
 
-.MirianRojas {
+.MirianRojasFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/MirianRojas/MirianRojas.jpg);
+   /* background-image: url(./fotos/MirianRojas/MirianRojas.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -355,12 +354,12 @@ header {
 }
 
 
-.PedroRojas {
+.PedroRojasFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/PedroRojas/PedroRojas.jpg);
+    /*background-image: url(./fotos/PedroRojas/PedroRojas.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -389,12 +388,12 @@ header {
 }
 
 
-.AngelaRojas {
+.AngelaRojasFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/AngelaMami/AngelaMami.jpg);
+    /*background-image: url(./fotos/AngelaMami/AngelaMami.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -423,12 +422,12 @@ header {
 }
 
 
-.CarmenElenaRojas {
+.CarmenElenaRojaFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/CarmenElena/CarmenElena.jpg);
+    /*background-image: url(./fotos/AngelaMami/AngelaMami.jpg);*/
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -456,7 +455,9 @@ header {
     /*top: 250px;*/
 }
 
-/*scroll___1__________________________________________*/
+
+
+/*scroll___hijos__________________________________________*/
 
 .CarretelHijos {
     display: flex;
