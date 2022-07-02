@@ -12,6 +12,12 @@
 
 }
 
+a {
+    text-decoration: none;
+    cursor: pointer;
+    color: var(--soft-blue);
+}
+
 * { /* selector univesal*/
     box-sizing: border-box;
     margin: 0;
