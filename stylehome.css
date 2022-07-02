@@ -124,7 +124,7 @@ header {
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    /*background-image: url(./fotos/ferrer/ferrer.JPG);*/
+    background-image: url(./fotos/ferrer/ferrer.JPG);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
