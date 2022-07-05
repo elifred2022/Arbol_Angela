@@ -28,6 +28,8 @@ html {
     font-size: 62.5%;
     font-family: "dm sans", sans-serif;
     color: var(--soft-blue);
+    width: auto;
+    min-width: 320px;
 
 }
 
@@ -82,7 +84,7 @@ header {
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 100%;
+    width: auto;
     min-width: 320px; /* la dimension mas chica de los celulares 320px*/
     height: 50px;
     text-align: center;
