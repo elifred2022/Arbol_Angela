@@ -48,7 +48,7 @@ header {
 
 .AngelaMartinezFoto {
     position: relative;
-    /*width: 100%;*/
+    width: 100%;
     min-width: 320px;
     height: 50vh;
    /* background-image: url(./fotos/orlando/OrlandoMartinezFoto.jpeg); */
