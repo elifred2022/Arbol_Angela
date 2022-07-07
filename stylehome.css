@@ -140,8 +140,8 @@ header {
     overflow-x: scroll; /* asi se hace el srcoll vertical para el horizontal seria (overflow-y: scroll)*/
     overscroll-behavior-x: contain;
     scroll-snap-type: x proximity;
-    /*width: auto;
-    height: auto;*/
+    width: auto;
+    height: auto;
 }
 
 img {
