@@ -45,13 +45,16 @@ header {
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
 }
+/* MENU ----------------------------------------------------*/
+    
+/*  ------------------------------------------------------*/  
 
 #AngelaMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
     height: 50vh;
-    background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg); 
+    /*background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg); */
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
