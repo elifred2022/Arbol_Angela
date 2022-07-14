@@ -11,13 +11,118 @@
     --just-white: #fff;
 
 }
+/* MENU HAMBURGUESA */
 
-a {
-    text-decoration: none;
-    cursor: pointer;
-    color: var(--soft-blue);
+
+
+.Titulo1{
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: auto;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    top: 0px;
 }
 
+a {
+    font-family: "montserrat", sans-serif;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+#LeyendaAngela { 
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    min-width: 320px; /* la dimension mas chica de los celulares 320px*/
+    height: 50px;
+    text-align: center;
+    background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
+    border-radius: 15px;
+    top: 300px;
+}
+
+header {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./fotos/WhatsApp\ Image\ 2022-06-23\ at\ 4.04.20\ PM.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: #fff;
+}
+
+
+nav {
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.bar-btn {
+    font-size: 25px;
+    color: black;
+    margin-right: 20px;
+    cursor: pointer;
+    
+}
+
+
+.nav-menu {
+    position: fixed;
+    width: 100%;
+    height: 0vh;
+    top: 100px;
+    background: rgba(226, 8, 8, 0.35);
+    text-align: center;
+    transition: all .5s;
+}
+
+.nav-menu li {
+    display: none;
+    line-height: 5px;
+    margin: 50px 0;
+    transition: all .5s;
+}
+
+.nav-menu li a {
+    color: #fff;
+    font-size: 16px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+
+.nav-menu li a.active, .nav-menu li a:hover {
+    color: rgb(44, 8, 248);
+    transition: .3s;
+}
+
+#check {
+    display: none;
+}
+
+#check:checked ~ .nav-menu {
+    height: 100vh;
+}
+
+
+#check:checked ~ .nav-menu li {
+    display: block;
+}
+
+/****************************/
 * { /* selector univesal*/
     box-sizing: border-box;
     margin: 0;
@@ -33,20 +138,22 @@ html {
 
 }
 
-header {
+/*header {
     position: relative;
     display: flex;
     flex-direction: column;
     justify-content: center;
     width: auto;
     min-width: 320px; /* la dimension mas chica de los celulares 320px*/
-    height: 100px;
+   /* height: 100px;
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
-}
 
-#AngelaMartinezFoto {
+   
+}*/
+
+/*#AngelaMartinezFoto {
     position: relative;
     width: 100%;
     min-width: 320px;
@@ -63,7 +170,7 @@ header {
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: flex-end;
-}
+} */
 
 .MasterFoto {
     position: relative;
@@ -130,6 +237,7 @@ header {
     flex-wrap: wrap;
     align-content: space-between;
     justify-content: flex-end;
+    
 }
 
 
@@ -144,6 +252,7 @@ header {
     text-align: center;
     background: linear-gradient(207.8deg, #d9457f 16.69%, #0084e5 100%);
     border-radius: 15px;
+    color: #fff;
     /*top: 200px;*/
 }
 
